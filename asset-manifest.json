@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Sugarplum25/face-detection-app/static/css/main.17a525ab.chunk.css",
-    "main.js": "/Sugarplum25/face-detection-app/static/js/main.b0cbe860.chunk.js",
-    "main.js.map": "/Sugarplum25/face-detection-app/static/js/main.b0cbe860.chunk.js.map",
-    "runtime-main.js": "/Sugarplum25/face-detection-app/static/js/runtime-main.e790071c.js",
-    "runtime-main.js.map": "/Sugarplum25/face-detection-app/static/js/runtime-main.e790071c.js.map",
-    "static/js/2.fa600b31.chunk.js": "/Sugarplum25/face-detection-app/static/js/2.fa600b31.chunk.js",
-    "static/js/2.fa600b31.chunk.js.map": "/Sugarplum25/face-detection-app/static/js/2.fa600b31.chunk.js.map",
-    "static/js/3.cd797d00.chunk.js": "/Sugarplum25/face-detection-app/static/js/3.cd797d00.chunk.js",
-    "static/js/3.cd797d00.chunk.js.map": "/Sugarplum25/face-detection-app/static/js/3.cd797d00.chunk.js.map",
-    "index.html": "/Sugarplum25/face-detection-app/index.html",
-    "static/css/main.17a525ab.chunk.css.map": "/Sugarplum25/face-detection-app/static/css/main.17a525ab.chunk.css.map",
-    "static/js/2.fa600b31.chunk.js.LICENSE.txt": "/Sugarplum25/face-detection-app/static/js/2.fa600b31.chunk.js.LICENSE.txt"
+    "main.css": "/face-detection-app/static/css/main.17a525ab.chunk.css",
+    "main.js": "/face-detection-app/static/js/main.b0cbe860.chunk.js",
+    "main.js.map": "/face-detection-app/static/js/main.b0cbe860.chunk.js.map",
+    "runtime-main.js": "/face-detection-app/static/js/runtime-main.c7200c3d.js",
+    "runtime-main.js.map": "/face-detection-app/static/js/runtime-main.c7200c3d.js.map",
+    "static/js/2.8e4eb2fa.chunk.js": "/face-detection-app/static/js/2.8e4eb2fa.chunk.js",
+    "static/js/2.8e4eb2fa.chunk.js.map": "/face-detection-app/static/js/2.8e4eb2fa.chunk.js.map",
+    "static/js/3.cd797d00.chunk.js": "/face-detection-app/static/js/3.cd797d00.chunk.js",
+    "static/js/3.cd797d00.chunk.js.map": "/face-detection-app/static/js/3.cd797d00.chunk.js.map",
+    "index.html": "/face-detection-app/index.html",
+    "static/css/main.17a525ab.chunk.css.map": "/face-detection-app/static/css/main.17a525ab.chunk.css.map",
+    "static/js/2.8e4eb2fa.chunk.js.LICENSE.txt": "/face-detection-app/static/js/2.8e4eb2fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e790071c.js",
-    "static/js/2.fa600b31.chunk.js",
+    "static/js/runtime-main.c7200c3d.js",
+    "static/js/2.8e4eb2fa.chunk.js",
     "static/css/main.17a525ab.chunk.css",
     "static/js/main.b0cbe860.chunk.js"
   ]
