@@ -1,0 +1,37 @@
+.image-form__text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.image-form__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.image-form__label {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.image-form__input {
+    width: 90%;
+    margin-bottom: 1rem;
+    padding: .5rem;
+    font-size: 1.25rem;
+    background-color: #EEEEEE;
+    border-color: #A463F2;
+}
+
+.image-form__button {
+    display: inline-block;
+    width: 30%;
+    padding: .5rem 0;
+    color: #ffffff;
+    background-color: #A463F2;
+    border-color: #A463F2;
+    font-size: 1.25rem;
+}

@@ -1,0 +1,11 @@
+.rank {
+    color: #ffffff;
+}
+
+.rank__text:first-child {
+    font-size: 1.5rem;
+}
+
+.rank__text:last-child {
+    font-size: 1.25rem;
+}
