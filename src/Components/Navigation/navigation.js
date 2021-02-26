@@ -13,7 +13,7 @@ const Navigation = ({ onRouteChange, isSignedIn }) => {
         } else {
             return (
                 <nav>
-                    <p onClick={() => onRouteChange('signin')}>Sign In</p>
+                    <p onClick={() => onRouteChange('signin')}>SignIn</p>
                     <p onClick={() => onRouteChange('register')}>Register</p>
                 </nav>
 
