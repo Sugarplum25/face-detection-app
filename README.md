@@ -1,9 +1,17 @@
 # Face detection app
-Almost ready....waiting.....
+---------------------
+https://iknowyourface.herokuapp.com/
 
-This beautiful app works with great [Clarifai API](https://www.clarifai.com/models/face-detection "link to the api docs").
-It was built to help you to detect all faces that can be found in the uploading photo. 
+Приложение face-detection находит и выделяет рамкой лица людей на фотографии. Заходите, регистрируйтесь, 
+загружайте ссылку на фото и узнайте, люди ли изображены на фото. Счетчик хранит количество распознанных вами снимков. 
+При разработке использовался сервис по машинному обучению [Clarifai API](https://www.clarifai.com/models/face-detection "link to the api docs"), модель распознавания лиц Armada Predict Face Detection. 
 
-Deploy: [https://sugarplum25.github.io/face-detection-app/#0]
+**Использованные в проекте технологии:**
+* ReactJS 
+* Express.js ([репозиторий живет тут](https://github.com/Sugarplum25/face-detection-api))
+* bcrypt-nodejs
+* PostgreSQL
+* Knex.js
 
-
+Демо проекта:
+![Face-detection-demo](https://i.ibb.co/DtpTr9t/Gifius-ru.gif)
